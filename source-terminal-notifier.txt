@@ -35,8 +35,10 @@
 # Track Only Search: spot search track:de la soul
 # Get Spotify Version: spot version
 ################################
-# Requires terminal-notifier in /Applications folder
+# Modified by Tommi Pääkkö - http://pääkkö.fi
+# Source : https://github.com/Glenf/alfred-spotify-controls
 #
+# Requires terminal-notifier in /Applications folder
 # https://github.com/alloy/terminal-notifier
 ### END ####
 
